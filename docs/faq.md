@@ -6,7 +6,7 @@ sidebar_label: Perguntas Frequentes
 
 Perguntas frequentes que ocorrem quando o tema abordado é a flexibilização de componente curricular na Universidade Federal de Mato Grosso, em meio ao período de necessário isolamento social, medida fundamental para evitar o avanço da pandemia de Covid-19.
 
-![alt-text](/img/ufmt_header.png)
+<img src="/flexibilizacao/img/ufmt_header.png" alt="alt-text" style="width: 100%;">
 
 ## 1. No que consiste a flexibilização proposta UFMT?
 
@@ -53,8 +53,7 @@ No caso do adoecimento do docente que impeça a continuidade da disciplina, o co
 <li>Propor o início de outra disciplina e retomar os estudos da disciplina interrompida no momento oportuno</li>
 <li>Validar ou cancelar os trabalhos realizados, considerando a CH já ministrada e a qualidade da formação dos alunos.
 
-A saúde é o bem maior. A situação não é muito diversa com relação a adoecimento em situação de disciplinas presenciais. No caso de adoecimento do aluno que impeça participação:
-
+<li>A saúde é o bem maior. A situação não é muito diversa com relação a adoecimento em situação de disciplinas presenciais. No caso de adoecimento do aluno que impeça participação:</li>
 </li>
 <li>Como a adesão do aluno não é obrigatória, ele poderá cancelar a adesão e continuar a disciplina quando houver retorno às atividades presenciais</li>
 <li>Com atestado médico, poderá solicitar, ao colegiado de curso, um calendário diferenciado para realizar a disciplina remotamente, quando tiver condições, mesmo antes do retorno às atividades presenciais, pois os materiais continuarão à disposição no AVA</li>

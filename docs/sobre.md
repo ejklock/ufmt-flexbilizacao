@@ -9,9 +9,7 @@ sidebar_label: Sobre a Proposta
 A Universidade está colocando em discussão a possibilidade de flexibilizar a oferta de alguns componentes curriculares dos cursos de graduação por meio da utilização de tecnologias da comunicação e informação, no ambiente virtual de aprendizagem (AVA), para o semestre letivo 2020-1.
 Não se trata de implantar um modelo de ensino a distância, mas sim de buscar outras estratégias de ensino e aprendizagem para oferta das disciplinas por meio de tecnologias da informação e da comunicação, em caráter excepcional e temporário, durante o período de distanciamento social.
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/Qd20uovCzAs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## RESOLUÇÃO CONSEPE Nº
+## Resolução CONSEPE Nº
 
 Dispõe sobre a regulamentação da flexibilização em caráter excepcional e temporário, do desenvolvimento de estratégias de ensino-aprendizagem por meio de Tecnologias da Informação e Comunicação em substituição e/ou complementação às estratégias presenciais, para o ensino de graduação no período letivo 2020/1.
 
@@ -89,7 +87,7 @@ e) Acervo digital disponível em Repositório de Recursos Educacionais Abertos (
 
 **§ 2º** Todos os materiais digitais utilizados nas estratégias de ensino-aprendizagem que não sejam produzidos diretamente pelo docente responsável pelo componente curricular deverão conter a respectiva fonte, com a indicação da autoria, respeitados os direitos autorais assegurados pela Lei nº 9.610/98.
 
-## Planejamento dos Componentes Curriculares
+## Planejamento
 
 **CAPÍTULO II**
 
@@ -103,7 +101,7 @@ e) Acervo digital disponível em Repositório de Recursos Educacionais Abertos (
 
 **§ 3º.** O Plano de Ensino deverá ser elaborado e enviado pelo docente no AVA institucional, devendo ser aprovado pelo Colegiado de Curso.
 
-## Atividades Avaliativas
+## Avaliação
 
 **CAPÍTULO III**
 
@@ -115,7 +113,7 @@ e) Acervo digital disponível em Repositório de Recursos Educacionais Abertos (
 
 **§ 2º.** As avaliações que tenham necessidade de realização apenas em momentos presenciais, deverão ser realizadas posteriormente, quando retornar as aulas presenciais na UFMT.
 
-## Registro da Frequência
+## Frequência
 
 **CAPÍTULO IV**
 
