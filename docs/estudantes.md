@@ -126,7 +126,7 @@ A disciplina flexibilizada parcialmente terá o conteúdo teórico disponibiliza
 
 ### 18. Como posso me matricular em uma disciplina flexibilizada?
 
-De acordo com o Calendário Suplementar (específico para o período de flexibilização de componentes curriculares) aprovado pela Resolução CONSEPE 33 de 8 de julho de 2020, a partir do **dia 30 de julho até 4 de agosto** o sistema estará aberto para o **ajuste** _**on\*\*\*\***-**\*\***line\*\*_ **do aluno**, e novamente de **6 a 11 de agosto** para o **ajuste** _**on\*\*\*\***-**\*\***line\*\*_ **do coordenador**. Nestes períodos, você poderá se matricular normalmente em componentes curriculares flexibilizados pelo seu Curso.
+De acordo com o Calendário Suplementar (específico para o período de flexibilização de componentes curriculares) aprovado pela Resolução CONSEPE 33 de 8 de julho de 2020, a partir do **dia 6 até 11 de agosto** o sistema estará aberto para o **ajuste on-line do aluno**, e novamente de **14 a 18 de agosto** para o **ajuste on-line do coordenador.** Nestes períodos, você poderá se matricular normalmente em componentes curriculares flexibilizados pelo seu Curso.
 
 ### 19. Posso me matricular em uma disciplina flexibilizada de outro curso?
 
@@ -224,7 +224,9 @@ O registro de ausência no diário de classe online fica dispensado durante o pe
 
 ### 40. Mesmo que aula seja de forma sincronizada eu poderei assisti-la depois, caso eu não possa no horário certo?
 
-Sim. A aula ficará gravada no AVA. O que vai mudar é que se você assistir a aula gravada, você não irá participar da “discussão” do assunto, tirar dúvidas através do contato direto com o professor e outros alunos. Por isso, é bom se organizar e participar das aulas síncronas.
+Sim. A aula pode ser gravada no AVA - a critério de cada professor. O que vai mudar é que se você assistir a aula gravada, você não irá participar da “discussão” do assunto, tirar dúvidas através do contato direto com o professor e outros alunos. Por isso, é bom se organizar e participar das aulas síncronas.
+
+O docente poderá também eleger ferramentas de comunicação assíncrona, tais como fóruns e possibilitar que às discussões possam ocorrer mesmo após a aula síncrona.
 
 ### 41. Como serão as atividades avaliativas?
 
@@ -238,9 +240,11 @@ Será disponibilizado após a homologação pelo colegiado, ou seja, após o dia
 
 ### 43. Como ficará a bibliografia das disciplinas?
 
-Cabe a cada docente indicar bibliografia que seja de acesso remoto aos estudantes. A Biblioteca Central da UFMT poderá dar suporte às Coordenações de Curso, mediante ações de consulta para a indicação e disponibilização de e-books, bem como parcerias com bibliotecas virtuais.
+Cabe a cada docente indicar bibliografia que seja de acesso remoto aos estudantes. A Biblioteca Central da UFMT poderá dar suporte às Coordenações de Curso, mediante ações de consulta para a indicação e disponibilização de e-books. Com relação especificamente aos livros digitais, a Biblioteca Central ainda não possui uma biblioteca digital específica, embora possua em seu acervo uma coleção de e-books avulsos com acesso via Sistema Pergamum (www.biblioteca.ufmt.br).
 
 Há também portais que disponibilizam informações digitais. Visite a plataforma [www.ufmtemrede.ufmt.br](http://www.ufmtemrede.ufmt.br/) e verifique informações sobre outras formas de acesso tais como o reduc.ufmt.br.
+
+A Secretaria de Tecnologia da Informação (STI) passou a disponibilizar também aos alunos de graduação a possibilidade de criação de e-mail institucional, o que permite aos mesmos utilizarem a plataforma CAFe para acessar remotamente todo o conteúdo do Portal de Periódicos da CAPES. Para maiores informações sobre o acesso remoto, pode ser consultada a página específica da Biblioteca Central, recentemente atualizada: https://www1.ufmt.br/ufmt/unidade/index.php/secao/visualizar/5671/BIBLIOTECA
 
 ### 44. Como ficará a acessibilidade dos estudantes com deficiência que precisam de apoio pedagógico?
 
@@ -260,9 +264,9 @@ Sim. O Programa Monitoria será ofertado excepcionalmente de forma digital (Edit
 
 Da assistência estudantil estão abertos cinco Editais para 2020, contemplando auxílio e benefício na forma de transferência monetária: 1. Edital nº 03/2020/PRAE, para Cadastro de estudantes de graduação presencial para participação no Programa de Assistência Estudantil-fluxo contínuo2020; 2. Edital nº 05/2020/PRAE, Apoio financeiro a projetos estudantis de intervenção em contexto da Covid-19, com cronograma de inscrição até 31/07/2020; 3. Edital nº 06/2020/PRAE, Apoio Emergencial-Alimentação; 4. Edital nº 07/2020/PRAE, Auxílio Inclusão digital-Acesso à internet; 5. Edital nº 08/2020/PRAE, Apoio financeiro para Inclusão digital-Aquisição/locação de equipamentos-Acessibilidade. Acesso em: [https://www.ufmt.br/pro-reitoria/prae](https://www.ufmt.br/pro-reitoria/prae)
 
-#### 48. Haverá algum curso de capacitação voltado para os discentes durante este período?
+### 48. Haverá algum curso de capacitação voltado para os discentes durante este período?
 
-No dia 04/08/2020 a Secretaria de Tecnologia Educacional (SETEC) encaminhou e-mail convidando estudantes vinculados às disciplinas que foram flexibilizadas para inscrição no curso Introdução a AVAs - acesso disponível no endereço eletrônico [www.ufmtemrede.ufmt.br](http://www.ufmtemrede.ufmt.br) - apenas para estudantes da UFMT que estão vinculadas a disciplinas flexibilizadas.
+No dia 04/08/2020 a Secretaria de Tecnologia Educacional (SETEC)/PROEG encaminhou e-mail convidando estudantes vinculados às disciplinas que foram flexibilizadas para inscrição no curso Introdução a AVAs - acesso disponível no endereço eletrônico www.ufmtemrede.ufmt.br - apenas para estudantes da UFMT que estão vinculadas a disciplinas flexibilizadas.
 
 Esse cadastro foi realizado a partir de informações homologadas pela Secretaria de Tecnologia Educacional (STI) com base na data de 02/08/2020.
 
@@ -6493,3 +6497,93 @@ No quadro a seguir foram consideradas as disciplinas homologadas até dia 02/08/
 </tr>
 </tbody>
 </table>
+
+## Sobre o Material
+
+<p style="text-align: center;"><b>GUIA DO ESTUDANTE</b></p>
+<p style="text-align: center;"><b>Calend&aacute;rio Suplementar 2020/1</b></p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"><b>UNIVERSIDADE FEDERAL DE MATO GROSSO</b></p>
+<p></p>
+<p><b>Pr&oacute;-Reitora de Gradua&ccedil;&atilde;o:</b><span style="font-weight: 400;"> Lisiane Pereira de Jesus</span></p>
+<p><b>Pr&oacute;-Reitora de Assist&ecirc;ncia Estudantil:</b><span style="font-weight: 400;"> Eriv&atilde; Garcia Velasco&nbsp;</span></p>
+<p><b>Secret&aacute;rio de Tecnologia de Educa&ccedil;&atilde;o: </b><span style="font-weight: 400;">Alexandre Martins dos Anjos</span></p>
+<p><b>Secret&aacute;ria de Tecnologia de Informa&ccedil;&atilde;o:</b><span style="font-weight: 400;"> Eunice Pereira dos Santos Nunes</span></p>
+
+### Organização do Guia:
+
+- Lisiane Pereira de Jesus - Pró-reitora de Ensino de Graduação/PROEG
+
+- Delarim Martins Gomes - Coordenação de Formação Docente – CFD/PROEG
+
+- Erivã Garcia Velasco - Pró-Reitora de Assistência Estudantil/PRAE
+
+- Alexandre Martins dos Anjos - Secretaria de Tecnologia Educacional/SETEC
+
+- Eunice Nunes - Secretaria de Tecnologia de Informação/STI
+
+#### Colaboradores na elaboração do material:
+
+#### PROEG:
+
+- Lisiane Pereira de Jesus - Pró-reitora de Ensino de Graduação
+
+- Delarim Martins Gomes - Coordenador de Formação Docente
+
+- Florisvaldo Fernandes dos Santos - Coordenador de Ensino e Graduação
+
+- Aparecida Carmem Costa de Deus - Chefe de Secretaria
+
+- Marcia Grandi - Gerência de Normas e Projetos Pedagógicos/GNPP
+
+- Lívia Ribeiro Viegas - Gerencia de Normas e Projetos Pedagógicos/GNPP
+
+- Jussane Sartor - Gerência de Estágio e Mobilidade Acadêmica/GEMOB
+
+- Taciana Mirna Sambrano -Coordenação Institucional do Programa de Residência Pedagógica/PRP
+
+- Mariuce Campos de Moraes - Coordenadora Institucional do Programa Institucional de Bolsa de Iniciação à Docência-PIBID
+
+- Alice Gabriela Campos de Almeida - PET e Tutoria - Pedagoga
+
+- Tiago Barbosa do Santos - Monitoria
+
+- Michele Honória da Silva - Assistente em Administração
+
+#### PRAE:
+
+- Erivã Garcia Velasco - Pró-reitora de Assistência Estudantil
+
+- Nilce Vieira Campos Ferreira - Coordenadora de Políticas de Ações Afirmativas e Assistência Estudantil
+
+- Pedro Felipe Furlaneto Nava - Gerente de Apoio à Inclusão
+
+- Keyla Cristina da Silva Leoncio - Gerente de Acompanhamento Acadêmico
+
+#### SETEC:
+
+- Alexandre M. dos Anjos - Secretário de Tecnologia Educacional
+
+- Rosana Abutakka Vasconcelos dos Anjos - Design Educacional
+
+- Fiama Bamberg de Matos - Design gráfico
+
+- Evaldo José Klock Neto - Analista de Tecnologia da Informação
+
+#### CENTRO ACADÊMICO DE AGRONOMIA - CUIABÁ
+
+- Felipe Knippelberg
+
+- Charles Cavalcante
+
+- Markus Mato
+
+- Wallace Gabriel
+
+- Lucas Mendes
+
+#### Digitalização e Formatação
+
+- Equipe de design da Secretaria de Tecnologia Educacional (SETEC)
+
+_**Última atualização: 05/08/2020**_

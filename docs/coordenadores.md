@@ -142,7 +142,7 @@ II – Detalhamento das modificações a serem feitas em relação ao currículo
 
 III – Extrato da Ata do Colegiado de Curso no qual conste, explicitamente, síntese do parecer do NDE de a decisão do Colegiado de Curso.
 
-### 1. Da avaliação
+### 6. Da avaliação
 
 - A definição de instrumentos avaliativos, aplicados durante todo o processo de ensino-aprendizagem na modalidade FCCET, segue a Resolução CONSEPE n° 63/2018.
 
@@ -150,7 +150,7 @@ III – Extrato da Ata do Colegiado de Curso no qual conste, explicitamente, sí
 
 - As avaliações que puderem ser realizadas apenas em momentos presenciais deverão ocorrer posteriormente, quando retornarem as aulas presenciais do período letivo 2020/1.
 
-### 2. Dos registros acadêmicos
+### 7. Dos registros acadêmicos
 
 - O registro de ausência no diário de classe online fica dispensado, excepcionalmente, durante o período em que a oferta do componente curricular acontecer exclusivamente, por meio de TIC.
 
@@ -158,7 +158,7 @@ III – Extrato da Ata do Colegiado de Curso no qual conste, explicitamente, sí
 
 - Com relação às médias resultantes das atividades avaliativas deve-se seguir os procedimentos já adotados com relação às atividades avaliativas presenciais.
 
-### 3. DAS MATRÍCULAS E CANCELAMENTOS
+### 8. DAS MATRÍCULAS E CANCELAMENTOS
 
 - As matrículas referentes aos componentes curriculares ofertados flexibilizados serão realizadas por blocos de realização; para tal, considera-se como 1° bloco o período de agosto a dezembro de 2020.
 
@@ -170,7 +170,7 @@ III – Extrato da Ata do Colegiado de Curso no qual conste, explicitamente, sí
 
 - Mesmo que haja desistência de 100% dos discentes de um componente curricular flexibilizado, esse deverá ser validado no PIA do docente, desde que concluído no AVA.
 
-#### 4. DO CRONOGRAMA
+#### 9. DO CRONOGRAMA
 
 - A oferta de componentes curriculares, por meio de TICs seguirá o seguinte cronograma:
 
@@ -193,7 +193,7 @@ IV – Aprovação/homologação do Plano de Ensino e Guia de Estudos (colegiado
 
 V – Encaminhamento à PROEG do Relatório das Atividades pelo Coordenador de Curso: em até três dias após o encerramento do período de lançamento de notas no sistema, devendo ser elaborado conforme formulário disponibilizado no SEI ou SIGA, (PROEG-Flexibilização Curricular), após ser aprovado pelo Colegiado de Curso e homologado pela Congregação.
 
-### 5. TIC e meios digitais
+### 10. TIC e meios digitais
 
 - Para efeito desta FCC, as Tecnologias da Informação e Comunicação e os meios digitais, utilizados nas estratégias de ensino-aprendizagem, compreendem:
 
@@ -216,7 +216,7 @@ V – Encaminhamento à PROEG do Relatório das Atividades pelo Coordenador de 
 
 - Todos os materiais digitais previstos nas estratégias de ensino-aprendizagem que não sejam produzidos diretamente pelo docente responsável pelo componente curricular deverão conter a respectiva fonte, com a indicação da autoria, respeitados os direitos autorais assegurados pela Lei n° 9.610
 
-### 6. Informações gerais, conforme a Resolução CONSEPE n.º 32/2020
+### 11. Informações gerais, conforme a Resolução CONSEPE n.º 32/2020
 
 - A adesão às atividades da FCC será realizada em caráter voluntário, permitindo-se aos docentes, técnicos e estudantes engajarem-se ou não nessas ações, respeitando-se as condições psicológicas e estruturais de cada servidor e discente, sem prejuízos e/ou penalidades administrativas e/ou financeiras.
 
@@ -228,7 +228,7 @@ V – Encaminhamento à PROEG do Relatório das Atividades pelo Coordenador de 
 
 - Em todos os cursos da UFMT, os componentes curriculares que não forem ofertados no meio flexibilizado, terão sua oferta presencial garantida pela UFMT em calendário específico de reposição aprovado pelo CONSEPE, após retorno das atividades presenciais.
 
-### 7. Comissão Especial para Acompanhamento da Flexibilização (CEAF)
+### 12. Comissão Especial para Acompanhamento da Flexibilização (CEAF)
 
 - A CEAF, nomeada pelo CONSEPE, compõe-se de: dois docentes, dois discentes e um técnico-administrativo educacional.
 
@@ -246,9 +246,11 @@ V – Encaminhamento à PROEG do Relatório das Atividades pelo Coordenador de 
 
 2.  Pelo e-mail:
 
-## ORIENTAÇÕES Não presentes nas Resoluções CONSEPE 32/2020 e 33/2020
+## ORIENTAÇÕES
 
-### 8. Estágio obrigatório
+Não presentes nas Resoluções CONSEPE 32/2020 e 33/2020
+
+### 13. Estágio obrigatório
 
 Os estágios obrigatórios _poderão ser feitos de forma remota_. A seguir, colocamos orientações específicas para este tipo de oferta:
 
@@ -262,11 +264,11 @@ Os estágios obrigatórios _poderão ser feitos de forma remota_. A seguir, colo
 
 - No caso dos cursos de licenciaturas, a avaliação sobre a adequação dos estágios e das atividades práticas ao formato remoto também será feita pela Instituição Concedente responsável pela oferta do campo de estágio, além do Colegiado do Curso.
 
-### 9. Estágio não obrigatório
+### 14. Estágio não obrigatório
 
 Os estágios não obrigatórios só poderão ser realizados de forma remota mediante autorização do Colegiado de Curso e desde que estejam previstos no Projeto Pedagógico do Curso.
 
-### 10. Quanto ao Trabalho de Conclusão de Curso
+### 15. Quanto ao Trabalho de Conclusão de Curso
 
 O Trabalho de Conclusão de Curso, quando ofertado como componente curricular flexibilizado:
 
@@ -276,13 +278,13 @@ O Trabalho de Conclusão de Curso, quando ofertado como componente curricular fl
 
 - Excepcionalmente, caso a finalização de trabalho de conclusão de curso dependa de atividades presenciais em laboratório ou de pesquisa de campo, o caso deve ser submetido à Coordenação do Curso, à Direção da Unidade Acadêmica (onde se localiza o laboratório/campo de pesquisa) e à unidade de lotação docente. Nesse caso, será emitida pela Direção do Centro declaração de serviço ou atividade essencial, permitindo-se o acesso individual do/a concluinte à estrutura física necessária à pesquisa, observados os cuidados sanitários e o distanciamento social.
 
-#### 11. Aulas de Campo, Visitas Técnicas e Atividades Complementares
+#### 16. Aulas de Campo, Visitas Técnicas e Atividades Complementares
 
 - As aulas de campo e as visitas técnicas ficam vedadas para 2020/1, enquanto durar a suspensão das atividades presenciais;
 
 - As atividades complementares podem ser realizadas durante o semestre 2020/1. Orienta-se que os cursos, se necessário, flexibilizem os seus regimentos para considerar que essas ações possam ser feitas remotamente.
 
-#### 12. Monitoria, PET, PIBID e PRP
+#### 17. Monitoria, PET, PIBID e PRP
 
 - O Programa Monitoria será ofertado excepcionalmente de forma digital, no ambiente virtual de aprendizagem (AVA), enquanto vigorarem as restrições para o desenvolvimento de aulas presenciais, em decorrência da pandemia do coronavírus (Covid 19), e tem como finalidade o apoio e o assessoramento operacional das atividades didáticas desempenhadas pelos docentes com o emprego de tecnologias digitais de comunicação e informação para o seu desenvolvimento.
 
@@ -314,7 +316,7 @@ O Trabalho de Conclusão de Curso, quando ofertado como componente curricular fl
 
     Os Programas de monitoria, Programa de Educação Tutorial – PET, Programa Institucional de Bolsas de Iniciação à Docência – PIBID e Residência Pedagógica podem ser desenvolvidos apenas remotamente, desde que haja condições de execução.
 
-### 13. Colação de Grau
+### 18. Colação de Grau
 
 - É permitida a colação de grau do estudante que integralizar o curso, devendo a mesma ocorrer conforme estabelecido na PORTARIA GR Nº 162, DE 16 DE MARÇO DE 2020 e na PORTARIA GR Nº 179, DE 23 DE MARÇO DE 2020.
 
@@ -324,9 +326,25 @@ O Trabalho de Conclusão de Curso, quando ofertado como componente curricular fl
 
 - Orienta-se a coordenação de curso que, previamente, a quaisquer decisões, entre em contato com a Coordenação de Ensino de Graduação da PROEG, via SEI, para solicitar orientações quanto ao adequado encaminhamento do evento.
 
-### 14. Cursos de graduação em Educação a distância da UFMT
+### 19. Cursos de graduação em Educação a distância da UFMT
 
 As resoluções CONSEPE n.º 32/2020 e 33/2020 não se aplicam aos cursos de ensino de graduação ofertados na modalidade de Educação a Distância.
+
+## 20 . Funcionamento da Biblioteca Central
+
+- A Biblioteca Central da UFMT está organizando em sua homepage diversas informações sobre os conteúdos digitais que a Biblioteca disponibiliza ou provê acesso, bem como listando outras fontes de informação resultantes de levantamentos para identificar recursos informacionais potencialmente úteis para seus usuários. Estas informações estão reunidas no endereço eletrônico: https://www1.ufmt.br/ufmt/unidade/index.php/secao/visualizar/15585/BIBLIOTECA
+
+- Dentre outras, estão listadas as seguintes fontes de informação digitais com acesso ao conteúdo integral dos documentos: Biblioteca Digital de Monografias (BDM), Repositório Institucional (RI-UFMT), Portal de Periódicos da UFMT e Portal de Periódicos da CAPES. Este último, abrange bases de dados, periódicos, artigos e e-books, dentre outros.
+
+- Estes recursos estão disponíveis à toda a comunidade acadêmica, inclusive aos alunos de graduação. Maiores informações podem ser obtidas na própria página eletrônica, a qual está sendo atualizada periodicamente, inclusive com acréscimos de novas fontes de informação relevantes aos usuários.
+
+- A Secretaria de Tecnologia da Informação (STI) passou a disponibilizar também aos alunos de graduação a possibilidade de criação de e-mail institucional, o que permite aos mesmos utilizarem a plataforma CAFe para acessar remotamente todo o conteúdo do Portal de Periódicos da CAPES. Para maiores informações sobre o acesso remoto, pode ser consultada a página específica da Biblioteca Central, recentemente atualizada: https://www1.ufmt.br/ufmt/unidade/index.php/secao/visualizar/5671/BIBLIOTECA
+
+- Com relação especificamente aos livros digitais, a Biblioteca Central ainda não possui uma biblioteca digital específica, embora possua em seu acervo uma coleção de e-books avulsos com acesso via Sistema Pergamum (www.biblioteca.ufmt.br).
+
+- Atualmente a Biblioteca está trabalhando em um processo de contratação de uma biblioteca digital universitária, e, tão logo a referida contratação seja concluída, deveremos disponibilizar a informação na homepage da Unidade, bem como comunicar toda a Universidade via SEI.
+
+- Alternativamente, há também repositórios de recursos educacionais digitais disponibilizados por meio da plataforma www.ufmtemrede.ufmt.br.
 
 ## CONSIDERAÇÕES FINAIS
 
@@ -383,3 +401,93 @@ UFMT. Resolução CONSEPe N.º 32, de 08 de julho de 2020. **Sistema de gerencia
 **\_\_**. Resolução CONSEPE Nº 33, de 08 de julho de 2020. Aprova o Calendário Acadêmico Suplementar do semestre 2020/1. **Sistema de gerenciamento de resoluções**. Disponível em: https://sistemas.ufmt.br/ufmtresolucao/ FrmConsultarResolucao.aspx?pageIndex=&txtCriterio=&txtNumero=33&txtAno=2020&tipoUID=
 
 UFPE. **Guia do coordenador de Curso.** Disponível em: https://www.ufpe.br/documents/38970/2539614/Guia_Coordenador_2020.3.pdf/96a12c64-90f7-4d2d-ad1d-a5720b608790. Acesso em: 29 jul. 2020.
+
+## Sobre o Material
+
+<p style="text-align: center;"><b>GUIA DO ESTUDANTE</b></p>
+<p style="text-align: center;"><b>Calend&aacute;rio Suplementar 2020/1</b></p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"><b>UNIVERSIDADE FEDERAL DE MATO GROSSO</b></p>
+<p></p>
+<p><b>Pr&oacute;-Reitora de Gradua&ccedil;&atilde;o:</b><span style="font-weight: 400;"> Lisiane Pereira de Jesus</span></p>
+<p><b>Pr&oacute;-Reitora de Assist&ecirc;ncia Estudantil:</b><span style="font-weight: 400;"> Eriv&atilde; Garcia Velasco&nbsp;</span></p>
+<p><b>Secret&aacute;rio de Tecnologia de Educa&ccedil;&atilde;o: </b><span style="font-weight: 400;">Alexandre Martins dos Anjos</span></p>
+<p><b>Secret&aacute;ria de Tecnologia de Informa&ccedil;&atilde;o:</b><span style="font-weight: 400;"> Eunice Pereira dos Santos Nunes</span></p>
+
+### Organização do Guia:
+
+- Lisiane Pereira de Jesus - Pró-reitora de Ensino de Graduação/PROEG
+
+- Delarim Martins Gomes - Coordenação de Formação Docente – CFD/PROEG
+
+- Erivã Garcia Velasco - Pró-Reitora de Assistência Estudantil/PRAE
+
+- Alexandre Martins dos Anjos - Secretaria de Tecnologia Educacional/SETEC
+
+- Eunice Nunes - Secretaria de Tecnologia de Informação/STI
+
+#### Colaboradores na elaboração do material:
+
+#### PROEG:
+
+- Lisiane Pereira de Jesus - Pró-reitora de Ensino de Graduação
+
+- Delarim Martins Gomes - Coordenador de Formação Docente
+
+- Florisvaldo Fernandes dos Santos - Coordenador de Ensino e Graduação
+
+- Aparecida Carmem Costa de Deus - Chefe de Secretaria
+
+- Marcia Grandi - Gerência de Normas e Projetos Pedagógicos/GNPP
+
+- Lívia Ribeiro Viegas - Gerencia de Normas e Projetos Pedagógicos/GNPP
+
+- Jussane Sartor - Gerência de Estágio e Mobilidade Acadêmica/GEMOB
+
+- Taciana Mirna Sambrano -Coordenação Institucional do Programa de Residência Pedagógica/PRP
+
+- Mariuce Campos de Moraes - Coordenadora Institucional do Programa Institucional de Bolsa de Iniciação à Docência-PIBID
+
+- Alice Gabriela Campos de Almeida - PET e Tutoria - Pedagoga
+
+- Tiago Barbosa do Santos - Monitoria
+
+- Michele Honória da Silva - Assistente em Administração
+
+#### PRAE:
+
+- Erivã Garcia Velasco - Pró-reitora de Assistência Estudantil
+
+- Nilce Vieira Campos Ferreira - Coordenadora de Políticas de Ações Afirmativas e Assistência Estudantil
+
+- Pedro Felipe Furlaneto Nava - Gerente de Apoio à Inclusão
+
+- Keyla Cristina da Silva Leoncio - Gerente de Acompanhamento Acadêmico
+
+#### SETEC:
+
+- Alexandre M. dos Anjos - Secretário de Tecnologia Educacional
+
+- Rosana Abutakka Vasconcelos dos Anjos - Design Educacional
+
+- Fiama Bamberg de Matos - Design gráfico
+
+- Evaldo José Klock Neto - Analista de Tecnologia da Informação
+
+#### CENTRO ACADÊMICO DE AGRONOMIA - CUIABÁ
+
+- Felipe Knippelberg
+
+- Charles Cavalcante
+
+- Markus Mato
+
+- Wallace Gabriel
+
+- Lucas Mendes
+
+#### Digitalização e Formatação
+
+- Equipe de design da Secretaria de Tecnologia Educacional (SETEC)
+
+_**Última atualização: 05/08/2020**_
