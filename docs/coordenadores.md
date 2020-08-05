@@ -42,13 +42,13 @@ A partir das Resoluções CONSEPE 32/2020 e 33/2020:
 
 - Distingue-se a FCC, mediada Tecnologias da Informação e Comunicação (TICs) em substituição e/ou complementação às estratégias presenciais para o ensino de graduação, de uma proposta da modalidade de Educação a Distância (EaD);
 
-- Ensino na modalidade FCCCET refere-se a componentes curriculares que se iniciarem durante a suspensão das atividades presenciais e que poderão ser mantidos no modo flexibilizado até sua conclusão, ainda que seja findada a suspensão das atividades presenciais. Trata-se, portanto, de atividades de ensino emergenciais e provisórias. A EaD configura-se como modalidade educacional com configuração didático-pedagógica própria e definida pelo Decreto MEC nº 9.057, de 25 de maio de 2017;
+- Ensino na modalidade FCC refere-se a componentes curriculares que se iniciarem durante a suspensão das atividades presenciais e que poderão ser mantidos no modo flexibilizado até sua conclusão, ainda que seja findada a suspensão das atividades presenciais. Trata-se, portanto, de atividades de ensino emergenciais e provisórias. A EaD configura-se como modalidade educacional com configuração didático-pedagógica própria e definida pelo Decreto MEC nº 9.057, de 25 de maio de 2017;
 
-- A FCCCET diferencia-se dos cursos oferecidos na modalidade EaD, principalmente, por se tratar de estudos remotos, em relação aos _campi_, voltados aos estudantes da graduação presencial e limitados a um período de oferta, definido conforme o Calendário Acadêmico Suplementar 2020/1, em caráter emergencial devido à Pandemia da Covid-19.
+- A FCC diferencia-se dos cursos oferecidos na modalidade EaD, principalmente, por se tratar de estudos remotos, em relação aos _campi_, voltados aos estudantes da graduação presencial e limitados a um período de oferta, definido conforme o Calendário Acadêmico Suplementar 2020/1, em caráter emergencial devido à Pandemia da Covid-19.
 
 ### 2. Do período de oferta das disciplinas no calendário suplementar 2020/1
 
-- Os componentes curriculares ofertados na modalidade FCCCET estender-se-ão até 16 de dezembro de 2020, incluídos sábados, com um total de aproximadamente 90 dias letivos, podendo haver prorrogação mediante autorização do CONSEPE. A carga horária dos componentes curriculares deverá ser distribuída ao longo desse período, respeitando o calendário suplementar 2020/1.
+- Os componentes curriculares ofertados na modalidade FCC estender-se-ão até 16 de dezembro de 2020, incluídos sábados, com um total de aproximadamente 90 dias letivos, podendo haver prorrogação mediante autorização do CONSEPE. A carga horária dos componentes curriculares deverá ser distribuída ao longo desse período, respeitando o calendário suplementar 2020/1.
 
 - O Calendário Acadêmico Suplementar 2020/1 encontra-se em página do portal da UFMT: [https://www.ufmt.br/unidade/estudante/graduacao/pagina/calendario-academico/1429#top_page](https://www.ufmt.br/unidade/estudante/graduacao/pagina/calendario-academico/1429#top_page)
 
@@ -57,7 +57,7 @@ A partir das Resoluções CONSEPE 32/2020 e 33/2020:
 - Fica aprovada a redução dos 100 dias letivos, garantindo-se a aplicação de toda a carga horária prevista no plano de ensino para o 1° bloco de flexibilização do componente curricular, durante o período flexibilizado.
 - I – considera-se como 1° bloco o período de agosto a dezembro de 2020.
 
-### 3. Do planejamento da oferta na modalidade FCCCET
+### 3. Do planejamento da oferta na modalidade FCC
 
 - A unidade acadêmica interessada na oferta dos componentes curriculares na modalidade FCCET deverá manifestar interesse à Pró-Reitoria de Ensino de Graduação (PROEG) da UFMT, encaminhando o Formulário de Planejamento de Oferta das Atividades (disponivel no Sei! em PROEG-Flexibilização Curricular) devidamente aprovado pelo Colegiado de Curso e homologado pela Congregação, por meio de processo disponibilizado no Sistema Eletrônico de Informação (SEI). O calendário, de acordo com a Resolução 33/2020, é o seguinte:
 
@@ -87,11 +87,11 @@ A partir das Resoluções CONSEPE 32/2020 e 33/2020:
 
 * O Colegiado de Curso poderá autorizar a oferta de componentes curriculares e disciplinas obrigatórias ou optativas, tópicos especiais, monografia ou trabalho de conclusão de curso e demais atividades previstas no PPC, em sua totalidade ou de forma parcial, complementando-se a carga horária remanescente e respectivo processo de avaliação, quando houver o retomo das atividades presenciais do semestre 2020/1.
 
-* Quanto às práticas profissionais de estágios ou às práticas que exijam laboratórios especializados, a FCCCET deve obedecer às Diretrizes Nacionais Curriculares (DCN) aprovadas pelo Conselho Nacional de Educação (CNE), ficando vedada para aqueles cursos que não têm DCN aprovadas pelo CNE.
+* Quanto às práticas profissionais de estágios ou às práticas que exijam laboratórios especializados, a FCC deve obedecer às Diretrizes Nacionais Curriculares (DCN) aprovadas pelo Conselho Nacional de Educação (CNE), ficando vedada para aqueles cursos que não têm DCN aprovadas pelo CNE.
 
-* Especificamente para o curso de medicina, fica autorizada a FCCCET apenas às disciplinas teórico-cognitivas do primeiro ao quarto ano do curso e do estágio supervisionado obrigatório, conforme disciplinado pelo Conselho Nacional de Educação (CNE).
+* Especificamente para o curso de medicina, fica autorizada a FCC apenas às disciplinas teórico-cognitivas do primeiro ao quarto ano do curso e do estágio supervisionado obrigatório, conforme disciplinado pelo Conselho Nacional de Educação (CNE).
 
-* A FCCCET de práticas profissionais ou de práticas que exijam laboratórios especializados deve constar de planos de trabalhos específicos, aprovados, no âmbito institucional, pelos colegiados de curso e apensados aos respectivos projetos pedagógicos.
+* A FCC de práticas profissionais ou de práticas que exijam laboratórios especializados deve constar de planos de trabalhos específicos, aprovados, no âmbito institucional, pelos colegiados de curso e apensados aos respectivos projetos pedagógicos.
 
 * Cabe à Coordenação do Curso organizar a oferta das turmas e disciplinas no _Siga_, bem como definir a quantidade de vagas disponíveis em diálogo com as/os docentes;
 
@@ -195,7 +195,7 @@ V – Encaminhamento à PROEG do Relatório das Atividades pelo Coordenador de 
 
 ### 5. TIC e meios digitais
 
-- Para efeito desta FCCCET, as Tecnologias da Informação e Comunicação e os meios digitais, utilizados nas estratégias de ensino-aprendizagem, compreendem:
+- Para efeito desta FCC, as Tecnologias da Informação e Comunicação e os meios digitais, utilizados nas estratégias de ensino-aprendizagem, compreendem:
 
 
     I – TICs: conjunto de tecnologias utilizadas para o desenvolvimento de estratégias de gestão, comunicação, ensino e aprendizagem em formato digital, e em caráter institucional, a serem registradas no AVA institucional (Moodle).
@@ -218,7 +218,7 @@ V – Encaminhamento à PROEG do Relatório das Atividades pelo Coordenador de 
 
 ### 6. Informações gerais, conforme a Resolução CONSEPE n.º 32/2020
 
-- A adesão às atividades da FCCCET será realizada em caráter voluntário, permitindo-se aos docentes, técnicos e estudantes engajarem-se ou não nessas ações, respeitando-se as condições psicológicas e estruturais de cada servidor e discente, sem prejuízos e/ou penalidades administrativas e/ou financeiras.
+- A adesão às atividades da FCC será realizada em caráter voluntário, permitindo-se aos docentes, técnicos e estudantes engajarem-se ou não nessas ações, respeitando-se as condições psicológicas e estruturais de cada servidor e discente, sem prejuízos e/ou penalidades administrativas e/ou financeiras.
 
 - O discente matriculado que optar por não cursar o componente curricular de forma flexibilizada terá garantia de vaga no período subsequente da oferta da disciplina, presencial ou flexibilizada.
 
@@ -332,7 +332,7 @@ As resoluções CONSEPE n.º 32/2020 e 33/2020 não se aplicam aos cursos de ens
 
 A decisão do CONSEPE definiu e reafirmou a responsabilidade da Universidade, em promover a segurança e tranqüilidade da comunidade acadêmica, criando alternativas à continuidade do ano letivo, ainda que, forçosamente, alterando o tempo, a configuração e as formas de atender nossa rotina acadêmica. No momento não temos como prever como se dará e quando se dará o retorno das atividades presenciais na UFMT, mas sabemos que não haverá uma volta imediata à normalidade que estávamos acostumados e toda a comunidade acadêmica, que já está em fase de adaptação, está se organizando em uma nova rotina para uma nova “realidade” que se impõe, com novos desafios para os quais estamos coletivamente encontrando respostas.
 
-Destacamos que a PROEG está à disposição para dar os devidos esclarecimentos aos coordenadores e publica, ainda, outro material de orientação: Guia do Estudante. Os dois materiais trazem sugestões de encaminhamentos e esclarecimentos sobre a Resoluções CONSEPE n.º 32/2020 e 33/2020 para a implantação do Calendário Acadêmico Suplementar no formato de FCCCET.
+Destacamos que a PROEG está à disposição para dar os devidos esclarecimentos aos coordenadores e publica, ainda, outro material de orientação: Guia do Estudante. Os dois materiais trazem sugestões de encaminhamentos e esclarecimentos sobre a Resoluções CONSEPE n.º 32/2020 e 33/2020 para a implantação do Calendário Acadêmico Suplementar no formato de FCC.
 
 Para acessar todas as diretrizes do Calendário Acadêmico Suplementar dos cursos presenciais de Graduação 2020/1, solicitamos consultar as Resoluções acimaa referidas, que regulamentam o Calendário Acadêmico Suplementar e a Flexibilizaçãao da oferta dos componentes curriculares para os cursos presenciais de graduação na UFMT.
 

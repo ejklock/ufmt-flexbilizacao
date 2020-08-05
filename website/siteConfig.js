@@ -23,8 +23,8 @@ const users = [
 const siteConfig = {
   title: "Flexibilização Educacional", // Title for your website.
   tagline: "  ",
-  url: "https://setec.ufmt.br/flexibilizacao", // Your website URL
-  baseUrl: "/flexibilizacao/", // Base URL for your project */
+  url: "https://setec.ufmt.br/flexibiliza", // Your website URL
+  baseUrl: "/flexibiliza/", // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
@@ -34,13 +34,11 @@ const siteConfig = {
   organizationName: "ufmt",
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
+  // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
 
   // For no header links in the top nav bar -> headerLinks: [],
-  headerLinks: [
-    { doc: "sobre", label: "Informações sobre a Flexibilização" },
-    { doc: "faq", label: "Dúvidas Frequentes" },
-  ],
+  headerLinks: [{ doc: "sobre", label: "Informações sobre a Flexibilização" }],
 
   // If you have users set above, you add it here:
   users,
