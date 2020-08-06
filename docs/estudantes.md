@@ -130,7 +130,7 @@ De acordo com o Calendário Suplementar (específico para o período de flexibil
 
 ### 19. Posso me matricular em uma disciplina flexibilizada de outro curso?
 
-Sim, mas você precisará de autorização dos Colegiados do seu Curso e do Curso ofertante e fará a solicitação por processo SEI durante o ajuste do coordenador, como normalmente é feito para o ensino presencial.
+Sim, mas você precisará de autorização dos Colegiados do seu Curso e do Curso ofertante e fará a solicitação por processo via Protocolo Virtual durante o ajuste do coordenador, como normalmente é feito para o ensino presencial.
 
 ### 20. Por onde serão desenvolvidas as atividades das disciplinas remotas?
 
