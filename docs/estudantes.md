@@ -6576,7 +6576,7 @@ No quadro a seguir foram consideradas as disciplinas homologadas até dia 02/08/
 
 - Charles Cavalcante
 
-- Markus Mato
+- Markus Matos
 
 - Wallace Gabriel
 
