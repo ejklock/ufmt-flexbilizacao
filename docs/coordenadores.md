@@ -266,7 +266,7 @@ Os estágios obrigatórios _poderão ser feitos de forma remota_. A seguir, colo
 
 ### 14. Estágio não obrigatório
 
-Os estágios não obrigatórios só poderão ser realizados de forma remota mediante autorização do Colegiado de Curso e desde que estejam previstos no Projeto Pedagógico do Curso.
+Os estágios não obrigatórios poderão ser realizados  mediante autorização do Colegiado de Curso e desde que estejam previstos no Projeto Pedagógico do Curso.
 
 ### 15. Quanto ao Trabalho de Conclusão de Curso
 
