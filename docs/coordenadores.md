@@ -121,8 +121,7 @@ A partir das Resoluções CONSEPE 32/2020 e 33/2020:
 
 - Essas informações serão disponibilizadas ao aluno por meio do “Guia de Estudos” elaborado e publicado pelo docente no AVA institucional, segundo modelo disponibilizado no ANEXO II.
 
-
-     I – Guia de Estudos é um documento que tem por finalidade oferecer ao estudante orientação sobre o percurso teórico e prático a ser desenvolvido na disciplina, de maneira dialógica, que potencialize autonomia, crítica e autoavaliação frente aos conhecimentos propostos.
+  I – Guia de Estudos é um documento que tem por finalidade oferecer ao estudante orientação sobre o percurso teórico e prático a ser desenvolvido na disciplina, de maneira dialógica, que potencialize autonomia, crítica e autoavaliação frente aos conhecimentos propostos.
 
 - O Plano de Ensino deverá ser elaborado e disponibilizado pelo docente no AVA institucional, devendo ser aprovado pelo Colegiado de Curso e homologado pelo Coordenador de Curso
 
@@ -174,18 +173,17 @@ III – Extrato da Ata do Colegiado de Curso no qual conste, explicitamente, sí
 
 - A oferta de componentes curriculares, por meio de TICs seguirá o seguinte cronograma:
 
+  I – Encaminhamento do planejamento à PROEG pela Coordenação de Curso com anuência do seu Colegiado, via SEI: em até duas semanas que antecedem a oferta do componente curricular.
 
-    I – Encaminhamento do planejamento à PROEG pela Coordenação de Curso com anuência do seu Colegiado, via SEI: em até duas semanas que antecedem a oferta do componente curricular.
+  II – Ajuste no lançamento de disciplinas no SIGA (colegiado de curso/coordenação de curso): data conforme calendário acadêmico suplementar:
 
-    II – Ajuste no lançamento de disciplinas no SIGA (colegiado de curso/coordenação de curso): data conforme calendário acadêmico suplementar:
+  1.  6/8/2020: Início do período de ajuste de matrícula on-line pelo aluno para matricular-se em disciplina ofertada através de meios digitais para o período do 1º bloco de flexibilização 2020/1;
 
-    1.  6/8/2020: Início do período de ajuste de matrícula on-line pelo aluno para matricular-se em disciplina ofertada através de meios digitais para o período do 1º bloco de flexibilização 2020/1;
+  2.  11/8/2020: Término do período de ajuste de matrícula on-line pelo aluno;
 
-    2.  11/8/2020: Término do período de ajuste de matrícula on-line pelo aluno;
+  3.  14/8/2020: Início do período de requerimento, pelo aluno, de ajuste de matrícula em disciplina oferta por meios digitais para análise e homologação do coordenador de curso de graduação por protocolo virtual;
 
-    3.  14/8/2020: Início do período de requerimento, pelo aluno, de ajuste de matrícula em disciplina oferta por meios digitais para análise e homologação do coordenador de curso de graduação por protocolo virtual;
-
-    4.  18/8/2020: Término, para o aluno, do período de requerimento de ajuste de matrícula;
+  4.  18/8/2020: Término, para o aluno, do período de requerimento de ajuste de matrícula;
 
 III – Preenchimento pelo docente dos Planos de Ensino e elaboração do Guia de Estudos (ANEXO II): em até 10 dias úteis que antecedem a oferta do componente curricular.
 
@@ -197,20 +195,19 @@ V – Encaminhamento à PROEG do Relatório das Atividades pelo Coordenador de 
 
 - Para efeito desta FCC, as Tecnologias da Informação e Comunicação e os meios digitais, utilizados nas estratégias de ensino-aprendizagem, compreendem:
 
+  I – TICs: conjunto de tecnologias utilizadas para o desenvolvimento de estratégias de gestão, comunicação, ensino e aprendizagem em formato digital, e em caráter institucional, a serem registradas no AVA institucional (Moodle).
 
-    I – TICs: conjunto de tecnologias utilizadas para o desenvolvimento de estratégias de gestão, comunicação, ensino e aprendizagem em formato digital, e em caráter institucional, a serem registradas no AVA institucional (Moodle).
+  II – Meios digitais: são mídias e recursos educacionais utilizados para efetivação das estratégias de ensino-aprendizagem registradas no AVA institucional, destacando- se:
 
-    II – Meios digitais: são mídias e recursos educacionais utilizados para efetivação das estratégias de ensino-aprendizagem registradas no AVA institucional, destacando- se:
+  1.  Material didático desenvolvido por instituições de educação superior que possuam licenciamento e/ou autorização legal para uso;
 
-    1.  Material didático desenvolvido por instituições de educação superior que possuam licenciamento e/ou autorização legal para uso;
+  2.  Acervo digital e objetos de aprendizagem disponíveis em repositórios educacionais que possuam licenciamento e/ou autorização legal para uso;
 
-    2.  Acervo digital e objetos de aprendizagem disponíveis em repositórios educacionais que possuam licenciamento e/ou autorização legal para uso;
+  3.  Materiais digitais em formatos diversos, tais como e-books, vídeos, livros, artigos, páginas de Internet desde que verificada a fonte e os direitos de autoria para a utilização e/ou edição do material;
 
-    3.  Materiais digitais em formatos diversos, tais como e-books, vídeos, livros, artigos, páginas de Internet desde que verificada a fonte e os direitos de autoria para a utilização e/ou edição do material;
+  4.  Material disponível em plataformas de Cursos Massivos Abertos e Online (MOOCs);
 
-    4.  Material disponível em plataformas de Cursos Massivos Abertos e Online (MOOCs);
-
-    5.  Acervo digital disponível em Repositório de Recursos Educacionais (REAs).
+  5.  Acervo digital disponível em Repositório de Recursos Educacionais (REAs).
 
 - Para efeito de comunicação docente/aluno é permitida a utilização de outras ferramentas, além do AVA institucional, desde que haja registro e comprovação dos processos de comunicação e/ou atividades realizadas pelos docentes e discentes no AVA.
 
@@ -242,9 +239,9 @@ V – Encaminhamento à PROEG do Relatório das Atividades pelo Coordenador de 
 
   III – Contatos com a CEAP podem ser feitos por:
 
-1.  Via SEI ao Gabinete da PROEG, que repassará o processo à CEAP
-
-2.  Pelo e-mail:
+  1. Se for servidor da UFMT, via Processo SEI para a unidade: “CONSEPE – CEAF”.
+  2. Se for discente da UFMT, via Processo SEI através do tipo de processo: “FLEXIBILIZAÇÃO – COMUNIDADE ACADÊMICA”.
+  3. Por e-mail institucional: flexibilizacao@ufmt.br
 
 ## ORIENTAÇÕES
 
@@ -296,25 +293,21 @@ O Trabalho de Conclusão de Curso, quando ofertado como componente curricular fl
 
 - Os discentes selecionados para monitoria digital deverão ter conhecimentos na área de Tecnologia Educacional e experiência na utilização do AVA institucional e de suas ferramentas de comunicação e informação para auxiliar o docente e os discentes no desenvolvimento da disciplina.
 
+  I – Contato com a coordenação da Monitoria: proegmonitoria@gmail.com
 
-    I – Contato com a coordenação da Monitoria: proegmonitoria@gmail.com
+  - As atividades do Programa de Educação Tutorial em 2020/1 realizam-se conforme diferentes editais específicos.
 
-    -   As atividades do Programa de Educação Tutorial em 2020/1 realizam-se conforme diferentes editais específicos.
+  II – Contato com a coordenação do PET: petufmt.proeg@gmail.com
 
+  - As atividades do Programa Institucional de Bolsas de Iniciação à Docência em 2020/1 realizam-se ao amparo do Edital Capes Nº 02/2020.
 
-    II – Contato com a coordenação do PET: petufmt.proeg@gmail.com
+  III – Contato com coordenação do PIBID: ufmt.proeg.pibid@gmail.com
 
-    -   As atividades do Programa Institucional de Bolsas de Iniciação à Docência em 2020/1 realizam-se ao amparo do Edital Capes Nº 02/2020.
+  - As atividades do Programa de Residência Pedagógica em 2020/1 realizam-se ao amparo do Edital Capes Nº 01/2020.
 
+  IV – Contato com gerência do PRP: ufmt.proe.prp@gmail.com
 
-    III – Contato com coordenação do PIBID: ufmt.proeg.pibid@gmail.com
-
-    -   As atividades do Programa de Residência Pedagógica em 2020/1 realizam-se ao amparo do Edital Capes Nº 01/2020.
-
-
-    IV – Contato com gerência do PRP: ufmt.proe.prp@gmail.com
-
-    Os Programas de monitoria, Programa de Educação Tutorial – PET, Programa Institucional de Bolsas de Iniciação à Docência – PIBID e Residência Pedagógica podem ser desenvolvidos apenas remotamente, desde que haja condições de execução.
+  Os Programas de monitoria, Programa de Educação Tutorial – PET, Programa Institucional de Bolsas de Iniciação à Docência – PIBID e Residência Pedagógica podem ser desenvolvidos apenas remotamente, desde que haja condições de execução.
 
 ### 18. Colação de Grau
 

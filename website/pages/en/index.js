@@ -66,11 +66,14 @@ class HomeSplash extends React.Component {
             <Button href={`${siteConfig.baseUrl}/docs/sobre`}>
               Informações sobre a Flexibilização
             </Button>
-            <Button href={`${siteConfig.baseUrl}/docs/estudantes`}>
-              Orientações aos Estudantes
-            </Button>
             <Button href={`${siteConfig.baseUrl}/docs/coordenadores`}>
               Orientações aos Coordenadores
+            </Button>
+            <Button href={`${siteConfig.baseUrl}/docs/docentes`}>
+              Orientações aos Docentes
+            </Button>
+            <Button href={`${siteConfig.baseUrl}/docs/estudantes`}>
+              Orientações aos Estudantes
             </Button>
           </PromoSection>
         </div>

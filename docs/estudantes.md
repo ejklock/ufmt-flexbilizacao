@@ -284,7 +284,14 @@ Não será aceito nenhum novo pedido de mobilidade acadêmica nacional e entre c
 
 A decisão do CONSEPE definiu e reafirmou a responsabilidade da Universidade, em promover a segurança e tranqüilidade da comunidade acadêmica, criando alternativas à continuidade do ano letivo, ainda que, forçosamente, alterando o tempo, a configuração e as formas de atender nossa rotina acadêmica. No momento, não temos como prever como se dará e quando se dará o retorno das atividades presenciais na UFMT, mas sabemos que não haverá uma volta imediata à normalidade que estávamos acostumados e toda a comunidade acadêmica, que já está em fase de adaptação, está se organizando em uma nova rotina para uma nova “realidade” que se impõe, com novos desafios para os quais estamos coletivamente encontrando respostas.
 
-### 52. Quais os cursos irão flexibilizar disciplinas na UFMT
+### 52. E se, com relação à flexibilização do ensino, eu quiser reclamar, denunciar, tirar dúvidas, fazer sugestões ou elogios ou propor alterações à Resolução CONSEPE Nº 32/2020?
+
+Para atender a essas demandas o CONSEPE criou a Comissão Especial de Acompanhamento da Flexibilização (CEAF) que pode ser contatada por:
+
+1. E-mail institucional: flexibilizacao@ufmt.br
+2. Via Processo SEI através do tipo de processo: “FLEXIBILIZAÇÃO – COMUNIDADE ACADÊMICA”.
+
+### 53. Quais os cursos irão flexibilizar disciplinas na UFMT
 
 No quadro a seguir foram consideradas as disciplinas homologadas até dia 02/08/2020. Caso a disciplina de seu interesse não esteja no quadro abaixo, contatar a coordenação de curso.
 
