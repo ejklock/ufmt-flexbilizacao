@@ -231,13 +231,13 @@ V – Encaminhamento à PROEG do Relatório das Atividades pelo Coordenador de 
 
 - Em Decisão CONSEPE 08/2020 o Presidente do Conselho de Ensino, Pesquisa e Extensão da Universidade Federal de Mato Grosso, considerando o artigo 10 da Resolução Consepe n. 32/2020, constituir uma comissão especial para acompanhamento da flexibilização (CEAF), composta pelos servidores Docentes Marcus da Silva Cruz e Fernando Pedroni, pelos Discentes Gustavo Sanches Cardinal e Wesley Snipes Correa da Costa e pela servidora Técnica Administrativa Denize da Silva Mesquita.
 
-- À CEAP compete:
+- À CEAF compete:
 
   I – Receber sugestões, reclamações, denúncias, elogios e dúvidas e dar os andamentos necessários;
 
   II – Propor, ao CONSEPE, alterações da Resolução CONSEPE n.º 32/2020.
 
-  III – Contatos com a CEAP podem ser feitos por:
+  III – Contatos com a CEAF podem ser feitos por:
 
   1. Se for servidor da UFMT, via Processo SEI para a unidade: “CONSEPE – CEAF”.
   2. Se for discente da UFMT, via Processo SEI através do tipo de processo: “FLEXIBILIZAÇÃO – COMUNIDADE ACADÊMICA”.

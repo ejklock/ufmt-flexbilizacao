@@ -164,21 +164,21 @@ Em todos os cursos da UFMT, os componentes curriculares que não forem ofertados
 
 ### Comissão Especial para Acompanhamento da Flexibilização (CEAF)
 
-A CEAF, nomeada pelo CONSEPE, compõe-se de: dois docentes, dois discentes e um técnico-administrativo educacional.
+- A CEAF, nomeada pelo CONSEPE, compõe-se de: dois docentes, dois discentes e um técnico-administrativo educacional.
 
-Em Decisão CONSEPE 08/2020 o Presidente do Conselho de Ensino, Pesquisa e Extensão da Universidade Federal de Mato Grosso, considerando o artigo 10 da Resolução Consepe n. 32/2020, constituir uma comissão especial para acompanhamento da flexibilização (CEAF), composta pelos servidores Docentes Marcus da Silva Cruz e Fernando Pedroni, pelos Discentes Gustavo Sanches Cardinal e Wesley Snipes Correa da Costa e pela servidora Técnica Administrativa Denize da Silva Mesquita.
+- Em Decisão CONSEPE 08/2020 o Presidente do Conselho de Ensino, Pesquisa e Extensão da Universidade Federal de Mato Grosso, considerando o artigo 10 da Resolução Consepe n. 32/2020, constituir uma comissão especial para acompanhamento da flexibilização (CEAF), composta pelos servidores Docentes Marcus da Silva Cruz e Fernando Pedroni, pelos Discentes Gustavo Sanches Cardinal e Wesley Snipes Correa da Costa e pela servidora Técnica Administrativa Denize da Silva Mesquita.
 
-À CEAP compete:
+- À CEAF compete:
 
-I – Receber sugestões, reclamações, denúncias, elogios e dúvidas e dar os andamentos necessários;
+  I – Receber sugestões, reclamações, denúncias, elogios e dúvidas e dar os andamentos necessários;
 
-II – Propor, ao CONSEPE, alterações da Resolução CONSEPE n.º 32/2020.
+  II – Propor, ao CONSEPE, alterações da Resolução CONSEPE n.º 32/2020.
 
-III – Contatos com a CEAP podem ser feitos por:
+  III – Contatos com a CEAF podem ser feitos por:
 
-Via SEI ao Gabinete da PROEG, que repassará o processo à CEAP
-
-Pelo e-mail:
+  1. Se for servidor da UFMT, via Processo SEI para a unidade: “CONSEPE – CEAF”.
+  2. Se for discente da UFMT, via Processo SEI através do tipo de processo: “FLEXIBILIZAÇÃO – COMUNIDADE ACADÊMICA”.
+  3. Por e-mail institucional: flexibilizacao@ufmt.br
 
 ## Orientações Gerais
 
@@ -337,6 +337,10 @@ Alternativamente, há também repositórios de recursos educacionais digitais di
 </tr>
 </tbody>
 </table>
+
+<br>
+
+# Educação Remota: orientações básicas
 
 ## 1. Introdução
 
