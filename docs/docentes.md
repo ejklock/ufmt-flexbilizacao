@@ -466,145 +466,141 @@ Para Volman (2005), o professor passa a desempenhar diferentes papéis, seja “
 
 **Quadro 1 – Exemplo de ferramentas tecnológicas síncronas e assíncronas**
 
-<table width="100%" cellpadding="7" cellspacing="0"  style="border-style: solid; border-color: #8f8f8f;">
+<table width="100%" cellspacing="0" cellpadding="6">
 <tbody>
 <tr>
-<td colspan="3" width="100%">
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;"><b>Atividades S&iacute;ncronas</b></span></span></span></p>
+<td style="background: transparent;" colspan="3" valign="bottom" width="100%">
+<p><span style="font-size: medium;"><strong><span style="font-family: inherit, serif;">Atividades S&iacute;ncronas</span></strong></span></p>
+</td>
+</tr>
+<tr valign="bottom">
+<td style="background: #f6f8fa;" bgcolor="#f6f8fa" width="20%">
+<p><span style="font-size: medium;"><strong><span style="font-family: inherit, serif;">Ferramenta</span></strong></span></p>
+</td>
+<td style="background: #f6f8fa;" bgcolor="#f6f8fa" width="26%">
+<p><span style="font-size: medium;"><strong><span style="font-family: inherit, serif;">Descri&ccedil;&atilde;o</span></strong></span></p>
+</td>
+<td style="background: #f6f8fa;" bgcolor="#f6f8fa" width="54%">
+<p><span style="font-size: medium;"><strong><span style="font-family: inherit, serif;">Dispon&iacute;vel em</span></strong></span></p>
 </td>
 </tr>
 <tr>
-<td width="17%">
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Ferramentas </span></span></span></p>
+<td style="background: transparent;" width="20%">
+<p align="center"><span style="font-size: medium;"><strong><span style="font-family: inherit, serif;">Confer&ecirc;ncia Web</span></strong></span></p>
 </td>
-<td width="42%">
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Descri&ccedil;&atilde;o</span></span></span></p>
+<td style="background: transparent;" width="26%">
+<p align="justify"><span style="font-size: medium;"><span style="font-family: inherit, serif;">Discuss&atilde;o em grupo ou pessoa-a-pessoa garantindo a comunica&ccedil;&atilde;o interativa.</span></span></p>
 </td>
-<td width="41%" valign="top">
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Dispon&iacute;vel em</span></span></span></p>
-</td>
-</tr>
-<tr>
-<td width="17%">
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Confer&ecirc;ncias Web </span></span></span></p>
-</td>
-<td width="42%">
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Discuss&atilde;o em grupo ou pessoa-a-pessoa garantindo a comunica&ccedil;&atilde;o interativa.</span></span></span></p>
-</td>
-<td width="41%" valign="top">
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Confer&ecirc;ncia Web RNP</span></span></span></p>
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Microsoft Teams</span></span></span></p>
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Big Blue Bottom (bbb) na plataforma AVA Institucional</span></span></span></p>
-<p class="western" align="left"></p>
+<td style="background: transparent;" width="54%">
+<p align="justify"><span style="font-size: medium;"><span style="font-family: inherit, serif;">Confer&ecirc;ncia Web RNP</span></span></p>
+<p align="justify"><span style="font-size: medium;"><span style="font-family: inherit, serif;">Microsoft Teams</span></span></p>
+<p align="justify"><span style="font-size: medium;"><span style="font-family: inherit, serif;">Big Blue Bottom (bbb) na plataforma AVA Institucional</span></span></p>
 </td>
 </tr>
 <tr>
-<td width="17%">
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Chat </span></span></span></p>
+<td style="background: #f6f8fa;" bgcolor="#f6f8fa" width="20%">
+<p align="center"><span style="font-size: medium;"><strong><span style="font-family: inherit, serif;">Chat</span></strong></span></p>
 </td>
-<td width="42%">
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">A intera&ccedil;&atilde;o &eacute; textual, com a media&ccedil;&atilde;o do/a professor/a. Em turmas grandes, dividir em pequenos grupos para serem atendidos em hor&aacute;rios diferentes possibilitar&aacute; acompanhar as discuss&otilde;es e tirar as d&uacute;vidas dos/as estudantes.</span></span></span></p>
+<td style="background: #f6f8fa;" bgcolor="#f6f8fa" width="26%">
+<p align="justify"><span style="font-size: medium;"><span style="font-family: inherit, serif;">A intera&ccedil;&atilde;o &eacute; textual, com a media&ccedil;&atilde;o do/a professor/a. Em turmas grandes, dividir em pequenos grupos para serem atendidos em hor&aacute;rios diferentes possibilitar&aacute; acompanhar as discuss&otilde;es e tirar as d&uacute;vidas dos/as estudantes.</span></span></p>
 </td>
-<td width="41%" valign="top">
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Plataforma AVA</span></span></span></p>
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Big Blue Bottom (bbb) na plataforma AVA Institucional</span></span></span></p>
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Confer&ecirc;ncia Web RNP</span></span></span></p>
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;"><span lang="en-US">Microsoft Teams</span></span></span></span></p>
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;"><span lang="en-US">WhatsApp</span></span></span></span></p>
-</td>
-</tr>
-<tr>
-<td width="17%">
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Quiz online </span></span></span></p>
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Tarefa Enquete</span></span></span></p>
-</td>
-<td width="42%">
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Podem ser apresentadas pequenas quest&otilde;es/perguntas para serem respondidas em tempo real pelos/as estudantes, com a devolutiva das respostas no mesmo momento, favorecendo o dinamismo do encontro.</span></span></span></p>
-</td>
-<td width="41%" valign="top">
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Quizz &lt;</span></span></span><span style="color: #0000ff;"><u><a href="https://pt.quizur.com/tag/1jS-quizz"><span style="font-family: Calibri, serif;"><span style="font-size: small;">https://pt.quizur.com/tag/1jS-quizz</span></span></a></u></span><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">&gt;</span></span></span></p>
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Mentimeter<!-- Não conheço, tem referência? --> </span></span></span><span style="color: #0000ff;"><u><span style="font-family: Calibri, serif;"><span style="font-size: small;">&lt;<a href="https://www.mentimeter.com/">https://www.mentimeter.com/</a>&gt;</span></span></u></span></p>
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Confer&ecirc;ncia Web RNP</span></span></span></p>
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Big Blue Bottom (bbb) na plataforma AVA Institucional</span></span></span></p>
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Microsoft Teams</span></span></span></p>
+<td style="background: #f6f8fa;" bgcolor="#f6f8fa" width="54%">
+<p align="justify"><span style="font-size: medium;"><span style="font-family: inherit, serif;">Plataforma AVA</span></span></p>
+<p align="justify"><span style="font-size: medium;"><span style="font-family: inherit, serif;">Big Blue Bottom (bbb) na plataforma AVA Institucional</span></span></p>
+<p align="justify"><span style="font-size: medium;"><span style="font-family: inherit, serif;">Confer&ecirc;ncia Web RNP</span></span></p>
+<p align="justify"><span style="font-size: medium;"><span lang="en-US"><span style="font-family: inherit, serif;">Microsoft Teams</span></span></span></p>
+<p align="justify"><span style="font-size: medium;"><span lang="en-US"><span style="font-family: inherit, serif;">WhatsApp</span></span></span></p>
 </td>
 </tr>
 <tr>
-<td colspan="3" width="100%">
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;"><b>Atividades Ass&iacute;ncronas </b></span></span></span></p>
+<td style="background: transparent;" width="20%">
+<p align="center"><span style="font-size: medium;"><strong><span style="font-family: inherit, serif;">Quiz online</span></strong></span></p>
+<p align="center"><span style="font-size: medium;"><strong><span style="font-family: inherit, serif;">Tarefa Enquete</span></strong></span></p>
+</td>
+<td style="background: transparent;" width="26%">
+<p align="justify"><span style="font-size: medium;"><span style="font-family: inherit, serif;">Podem ser apresentadas pequenas quest&otilde;es/perguntas para serem respondidas em tempo real pelos/as estudantes, com a devolutiva das respostas no mesmo momento, favorecendo o dinamismo do encontro.</span></span></p>
+</td>
+<td style="background: transparent;" width="54%">
+<p align="justify"><span style="font-size: medium;"><span style="font-family: inherit, serif;">Quizz &lt;</span></span><span style="font-family: inherit, serif;"><span style="font-size: medium;"><u><a href="https://pt.quizur.com/tag/1jS-quizz">https://pt.quizur.com/tag/1jS-quizz</a></u></span></span><span style="font-size: medium;"><span style="font-family: inherit, serif;">&gt;</span></span></p>
+<p align="justify"><span style="font-size: medium;"><span style="font-family: inherit, serif;">Mentimeter&nbsp;</span></span><span style="font-size: medium;"><u><span style="font-family: inherit, serif;">&lt;<a href="https://www.mentimeter.com/">https://www.mentimeter.com/</a>&gt;</span></u></span></p>
+<p align="justify"><span style="font-size: medium;"><span style="font-family: inherit, serif;">Confer&ecirc;ncia Web RNP</span></span></p>
+<p align="justify"><span style="font-size: medium;"><span style="font-family: inherit, serif;">Big Blue Bottom (bbb) na plataforma AVA Institucional</span></span></p>
+<p align="justify"><span style="font-size: medium;"><span style="font-family: inherit, serif;">Microsoft Teams</span></span></p>
 </td>
 </tr>
 <tr>
-<td width="17%">
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">F&oacute;runs </span></span></span></p>
-</td>
-<td width="42%">
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">H&aacute; a escolha de um tema para ser discutido no f&oacute;rum com per&iacute;odo de in&iacute;cio e fim previamente marcado. Os/as estudantes participam, registrando seus argumentos e quest&otilde;es a partir da intera&ccedil;&atilde;o com as demais postagens. Para uma avalia&ccedil;&atilde;o, podem ser observados a participa&ccedil;&atilde;o, frequ&ecirc;ncia e respostas postadas.</span></span></span></p>
-</td>
-<td width="41%" valign="top">
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">AVA Institucional</span></span></span></p>
+<td style="background: #f6f8fa;" colspan="3" bgcolor="#f6f8fa" width="100%">
+<p><span style="font-size: medium;"><strong><span style="font-family: inherit, serif;">Atividades Ass&iacute;ncronas</span></strong></span></p>
 </td>
 </tr>
 <tr>
-<td width="17%">
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">E-mail</span></span></span></p>
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">mensagem</span></span></span></p>
+<td style="background: transparent;" width="20%">
+<p align="center"><span style="font-size: medium;"><strong><span style="font-family: inherit, serif;">F&oacute;runs</span></strong></span></p>
 </td>
-<td width="42%">
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Possibilita transfer&ecirc;ncia de arquivos e a realiza&ccedil;&atilde;o de perguntas e respostas mais elaboradas. Pode ser tamb&eacute;m espa&ccedil;o para envio de atividades pelo/a estudante, e envio de interven&ccedil;&otilde;es do/a professor.</span></span></span></p>
+<td style="background: transparent;" width="26%">
+<p><span style="font-size: medium;"><span style="font-family: inherit, serif;">H&aacute; a escolha de um tema para ser discutido no f&oacute;rum com per&iacute;odo de in&iacute;cio e fim previamente marcado. Os/as estudantes participam, registrando seus argumentos e quest&otilde;es a partir da intera&ccedil;&atilde;o com as demais postagens. Para uma avalia&ccedil;&atilde;o, podem ser observados a participa&ccedil;&atilde;o, frequ&ecirc;ncia e respostas postadas.</span></span></p>
 </td>
-<td width="41%" valign="top">
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">E-mail institucional </span></span></span></p>
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">AVA Institucional</span></span></span></p>
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Microsoft Teams</span></span></span></p>
-<p class="western" align="left"></p>
+<td style="background: transparent;" width="54%">
+<p><span style="font-size: medium;"><span style="font-family: inherit, serif;">AVA Institucional</span></span></p>
 </td>
 </tr>
 <tr>
-<td width="17%">
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Lista de exerc&iacute;cios e question&aacute;rios</span></span></span></p>
+<td style="background: #f6f8fa;" bgcolor="#f6f8fa" width="20%">
+<p align="center"><span style="font-size: medium;"><strong><span style="font-family: inherit, serif;">E-mail</span></strong></span></p>
+<p align="center"><span style="font-size: medium;"><strong><span style="font-family: inherit, serif;">mensagem</span></strong></span></p>
 </td>
-<td width="42%">
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Essas atividades poder&atilde;o ser enviadas aos/&agrave;s estudantes com orienta&ccedil;&otilde;es para a realiza&ccedil;&atilde;o e data para conclus&atilde;o da atividade.</span></span></span></p>
+<td style="background: #f6f8fa;" bgcolor="#f6f8fa" width="26%">
+<p><span style="font-size: medium;"><span style="font-family: inherit, serif;">Possibilita transfer&ecirc;ncia de arquivos e a realiza&ccedil;&atilde;o de perguntas e respostas mais elaboradas. Pode ser tamb&eacute;m espa&ccedil;o para envio de atividades pelo/a estudante, e envio de interven&ccedil;&otilde;es do/a professor.</span></span></p>
 </td>
-<td width="41%" valign="top">
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">AVA Institucional</span></span></span></p>
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Microsoft Teams</span></span></span></p>
-<p class="western" align="left"></p>
-</td>
-</tr>
-<tr>
-<td width="17%">
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Portf&oacute;lio </span></span></span></p>
-</td>
-<td width="42%">
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Pode ser criada uma pasta virtual compartilhada para que os/as estudantes enviem suas produ&ccedil;&otilde;es (textos, imagens, v&iacute;deos) apresentando o registro das aprendizagens de um determinado per&iacute;odo ou tema, ficando dispon&iacute;vel para a avalia&ccedil;&atilde;o do/a professor/a e visualiza&ccedil;&atilde;o da turma.</span></span></span></p>
-</td>
-<td width="41%" valign="top">
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">AVA Institucional</span></span></span></p>
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Microsoft Teams</span></span></span></p>
-<p class="western" align="left"></p>
-<p class="western" align="left"></p>
+<td style="background: #f6f8fa;" bgcolor="#f6f8fa" width="54%">
+<p><span style="font-size: medium;"><span style="font-family: inherit, serif;">E-mail institucional</span></span></p>
+<p><span style="font-size: medium;"><span style="font-family: inherit, serif;">AVA Institucional</span></span></p>
+<p><span style="font-size: medium;"><span style="font-family: inherit, serif;">Microsoft Teams</span></span></p>
 </td>
 </tr>
 <tr>
-<td width="17%">
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Estudo de Caso </span></span></span></p>
+<td style="background: transparent;" width="20%">
+<p align="center"><span style="font-size: medium;"><strong><span style="font-family: inherit, serif;">Lista de exerc&iacute;cios e question&aacute;rios</span></strong></span></p>
 </td>
-<td width="42%">
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Pode ser utilizado para desenvolver um m&eacute;todo de pesquisa ampla sobre um assunto espec&iacute;fico, com base em modelos referenciais.</span></span></span></p>
+<td style="background: transparent;" width="26%">
+<p><span style="font-size: medium;"><span style="font-family: inherit, serif;">Essas atividades poder&atilde;o ser enviadas aos/&agrave;s estudantes com orienta&ccedil;&otilde;es para a realiza&ccedil;&atilde;o e data para conclus&atilde;o da atividade.</span></span></p>
 </td>
-<td width="41%" valign="top">
-<p class="western" align="left"><span style="color: #bf8f00;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Peri&oacute;dicos Capes, via CAFe</span></span></span></p>
-<p class="western" align="left"><span style="font-family: Calibri, serif;"><span style="font-size: small;">eduCapes &lt;</span></span><span style="color: #0000ff;"><u><a href="https://educapes.capes.gov.br/"><span style="font-family: Calibri, serif;"><span style="font-size: small;">https://educapes.capes.gov.br/</span></span></a></u></span><span style="font-family: Calibri, serif;"><span style="font-size: small;">&gt;</span></span></p>
-<p class="western" align="left"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Sistema Integrado de Bibliotecas - SIB<!-- Não entendi a relação com o AVA e Teams --> &lt;</span></span><span style="color: #0000ff;"><u><a href="https://www.ufpe.br/sib/ebooks"><span style="font-family: Calibri, serif;"><span style="font-size: small;">https://www.ufpe.br/sib/ebooks</span></span></a></u></span><span style="font-family: Calibri, serif;"><span style="font-size: small;">&gt;</span></span></p>
+<td style="background: transparent;" width="54%">
+<p><span style="font-size: medium;"><span style="font-family: inherit, serif;">AVA Institucional</span></span></p>
+<p><span style="font-size: medium;"><span style="font-family: inherit, serif;">Microsoft Teams</span></span></p>
+</td>
+</tr>
+<tr>
+<td style="background: #f6f8fa;" bgcolor="#f6f8fa" width="20%">
+<p align="center"><span style="font-size: medium;"><strong><span style="font-family: inherit, serif;">Portf&oacute;lio</span></strong></span></p>
+</td>
+<td style="background: #f6f8fa;" bgcolor="#f6f8fa" width="26%">
+<p><span style="font-size: medium;"><span style="font-family: inherit, serif;">Pode ser criada uma pasta virtual compartilhada para que os/as estudantes enviem suas produ&ccedil;&otilde;es (textos, imagens, v&iacute;deos) apresentando o registro das aprendizagens de um determinado per&iacute;odo ou tema, ficando dispon&iacute;vel para a avalia&ccedil;&atilde;o do/a professor/a e visualiza&ccedil;&atilde;o da turma.</span></span></p>
+</td>
+<td style="background: #f6f8fa;" bgcolor="#f6f8fa" width="54%">
+<p><span style="font-size: medium;"><span style="font-family: inherit, serif;">AVA Institucional</span></span></p>
+<p><span style="font-size: medium;"><span style="font-family: inherit, serif;">Microsoft Teams</span></span></p>
+</td>
+</tr>
+<tr>
+<td style="background: transparent;" width="20%">
+<p align="center"><span style="font-size: medium;"><strong><span style="font-family: inherit, serif;">Estudo de Caso</span></strong></span></p>
+</td>
+<td style="background: transparent;" width="26%">
+<p><span style="font-size: medium;"><span style="font-family: inherit, serif;">Pode ser utilizado para desenvolver um m&eacute;todo de pesquisa ampla sobre um assunto espec&iacute;fico, com base em modelos referenciais.</span></span></p>
+</td>
+<td style="background: transparent;" width="54%">
+<p><span style="font-size: medium;"><span style="font-family: inherit, serif;">Peri&oacute;dicos Capes, via CAFe</span></span></p>
+<p><span style="font-size: medium;"><span style="font-family: inherit, serif;">eduCapes &lt;</span></span><span style="font-family: inherit, serif;"><span style="font-size: medium;"><u><a href="https://educapes.capes.gov.br/">https://educapes.capes.gov.br/</a></u></span></span><span style="font-size: medium;"><span style="font-family: inherit, serif;">&gt;</span></span></p>
+<p><span style="font-size: medium;"><span style="font-family: inherit, serif;">Sistema Integrado de Bibliotecas - SIB&nbsp;&lt;</span></span><span style="font-family: inherit, serif;"><span style="font-size: medium;"><u><a href="https://www.ufpe.br/sib/ebooks">https://www.ufpe.br/sib/ebooks</a></u></span></span><span style="font-size: medium;"><span style="font-family: inherit, serif;">&gt;</span></span></p>
 </td>
 </tr>
 </tbody>
 </table>
 
 <br>
-Para mais informações sobre as ferramentas de conferência web disponíveis na UMFT, acesse o Guia de Orientação: Ferramentas para Colaboração no Trabalho <http://cms.ufmt.br/files/galleries/22/Guias de TI/Ferramentas de TIC.pdf>. Um Tutorial sobre o Microsoft Teams disponibilizado pela Microsoft se encontra disponível no endereço <https://news.microsoft.com/pt-br/tutorial-como-utilizar-o-microsoft-teams-no-ambiente-escolar/Para conhecer as funcionalidades da ferramenta Big Blue Button (bbb) que está integrado ao Ambiente Virtual de Aprendizagem da UFMT, acesse o guia no próprio AVA na área suporte ou acessando diretamente o endereço <https://cms.ufmt.br/files/galleries/22/Guias%20de%20TI/manual%20bbb.pdf>
+
+Para mais informações sobre as ferramentas de conferência web disponíveis na UFMT, acesse o **Guia de Orientação: Ferramentas para Colaboração no Trabalho** <[Guia de Orientação UFMT](https://cms.ufmt.br/files/galleries/22/Guias%20de%20TI/Guia%20de%20Orienta%C3%A7%C3%A3o%20de%20Ferramentas%20de%20TIC_vf3.pdf)>. Um **Tutorial sobre o Microsoft Teams** disponibilizado pela Microsoft se encontra disponível no endereço <[Tutorial Microsoft Teams](https://news.microsoft.com/pt-br/tutorial-como-utilizar-o-microsoft-teams-no-ambiente-escolar/)>Para conhecer as funcionalidades da ferramenta **Big Blue Button (bbb)** que está integrado ao Ambiente Virtual de Aprendizagem da UFMT, acesse o guia no próprio AVA na área suporte ou acessando diretamente o endereço: [Tutorial bbb UFMT](https://cms.ufmt.br/files/galleries/22/Guias%20de%20TI/manual%20bbb.pdf)
 
 Outro aspecto a ser considerado trata-se da autoria do material socializado e produzido por cada docente, baseado no Acesso Aberto, do termo em inglês _Open-access,_ “Isto é, digital, on-line, sem custo de acesso e livre da maioria das restrições dos direitos autorais e licenças” (MURIEL-TORRADO e LUIZ PINTO, 2018). Para nortear e orientar a comunidade, é importante conhecer sobre o Creative Commons, acessando ao site <[https://creativecommons.org/licenses/by-nc-nd/3.0/br/deed.pt](https://creativecommons.org/licenses/by-nc-nd/3.0/br/deed.pt)>. Nesta modalidade de licenciamento aberto, são permitidos o compartilhamento do material, desde que respeitados os termos da licença. No que tange à Propriedade Intelectual, merece destaque os direitos de reprodução, distribuição, comunicação pública e transformação, previstos na lei brasileira de direitos autorais lei 9.120 de 19 de fevereiro de 1998 (BRASIL, 1998).
 
